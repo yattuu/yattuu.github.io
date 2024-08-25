@@ -5,8 +5,11 @@
 
 
 
-#EXTINF:-1 tvg-id="511.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Cricket_2024.png", Astro Cricket HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A8Lgry+BWfnwzptdvIZfEA","k":"zYTtE2sMxx+KuM1NT2ouTA"}]}
+#EXTINF:-1 tvg-id="511.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Cricket_2024.png",Astro Cricket HD
 http://103.47.226.174/proxy/in.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
 
 #EXTINF:-1   tvg-logo="https://i.ibb.co/NnztQ83/Picsart-23-07-06-13-45-43-488.png",NAZARA TV
 https://epiconvh.s.llnwi.net/live/nazara/master.m3u8
