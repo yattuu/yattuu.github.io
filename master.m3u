@@ -4,6 +4,9 @@
 ##########################################################################################################################
 
 
+#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/NnztQ83/Picsart-23-07-06-13-45-43-488.png",NAZARA TV
+https://epiconvh.s.llnwi.net/live/nazara/master.m3u8
+
 #EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://github.com/mahenkpatel/m3u/blob/main/logos/epic.png?raw=true" group-title="Info",Epic
 https://epiconvh.s.llnwi.net/epic/master.m3u8
 
