@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U url-tvg="https://avkb.short.gy/tsepg.xml.gz"
 
 ##########################################################################################################################
 
@@ -16,7 +16,7 @@ https://epiconvh.s.llnwi.net/live/nazara/master_480.m3u8
 https://epiconvh.s.llnwi.net/epic/master.m3u8
 
 #EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" ,Epic 1080
-https://epiconvh.s.llnwi.net/epic/master_1080.m3u8
+https://epiconvh.s.llnwi.net/epic/master_720.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A8Lgry+BWfnwzptdvIZfEA","k":"zYTtE2sMxx+KuM1NT2ouTA"}]}
