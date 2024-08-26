@@ -12,10 +12,10 @@ https://epiconvh.s.llnwi.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-d="ts1184"  tvg-logo="https://i.ibb.co/NnztQ83/Picsart-23-07-06-13-45-43-488.png",NAZARA TV 480p
 https://epiconvh.s.llnwi.net/live/nazara/master_480.m3u8
 
-#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" group-title="Info",Epic HD
+#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" ,Epic HD
 https://epiconvh.s.llnwi.net/epic/master.m3u8
 
-#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" group-title="Info",Epic 1080
+#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" ,Epic 1080
 https://epiconvh.s.llnwi.net/epic/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -24,7 +24,7 @@ https://epiconvh.s.llnwi.net/epic/master.m3u8
 http://103.47.226.174/proxy/in.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995059_ico.png?ts=1660430191" group-title="SPORTS",Astro SuperSport 4
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995059_ico.png?ts=1660430191" ,Astro SuperSport 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -34,11 +34,11 @@ https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Assp 4
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" ,Assp 4
 https://bapak.natannafalah.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995059_ico.png?ts=1660430191" group-title="IPTV",Astro SuperSport 4
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995059_ico.png?ts=1660430191",Astro SuperSport 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -50,62 +50,62 @@ https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jVgMJj/95pG0JJ38rEP9EA","k":"8xSNHnN97ONVS4iYaIMWWQ"}]}
-#EXTINF:-1 group-title="Sports",Astro SuperSport 3 HD
+#EXTINF:-1 ,Astro SuperSport 3 HD
 http://103.47.226.174/proxy/in.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"efQChzCsypq4sA8mFY3bEA","k":"kf6+hDwIx8xSPv2CcpLkDg"}]}
-#EXTINF:-1 group-title="Sports",Astro SuperSport 4 HD
+#EXTINF:-1 ,Astro SuperSport 4 HD
 http://103.47.226.174/proxy/in.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="251.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Zee Cinema 
+#EXTINF:-1 tvg-id="251.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" ,Zee Cinema 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="615.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Cartoon Network     
+#EXTINF:-1 tvg-id="615.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" ,Cartoon Network     
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v34bl1VcSst0VfcRsqn/Fg", "kid":"G2GKKRzs5EyYRd3fxP2bEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="511.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNN_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",CNN 
+#EXTINF:-1 tvg-id="511.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNN_v1.png" ,CNN 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="554.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",BBC Earth 
+#EXTINF:-1 tvg-id="554.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" ,BBC Earth 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="552.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Discovery 
+#EXTINF:-1 tvg-id="552.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" ,Discovery 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="553.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Discovery Aisa 
+#EXTINF:-1 tvg-id="553.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" ,Discovery Aisa 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="551.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Global Treker 
+#EXTINF:-1 tvg-id="551.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" ,Global Treker 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="555.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",History 
+#EXTINF:-1 tvg-id="555.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png" ,History 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="550.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Love Nature 
+#EXTINF:-1 tvg-id="550.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" ,Love Nature 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="549.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Love Nature 4K
+#EXTINF:-1 tvg-id="549.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png" ,Love Nature 4K
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 
