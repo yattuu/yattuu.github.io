@@ -6,7 +6,17 @@
 
 
 
+#EXTINF:-1  tvg-id="ts1184" tvg-logo="https://i.ibb.co/NnztQ83/Picsart-23-07-06-13-45-43-488.png",NAZARA TV
+https://epiconvh.s.llnwi.net/live/nazara/master.m3u8
 
+#EXTINF:-1 tvg-d="ts1184"  tvg-logo="https://i.ibb.co/NnztQ83/Picsart-23-07-06-13-45-43-488.png",NAZARA TV 480p
+https://epiconvh.s.llnwi.net/live/nazara/master_480.m3u8
+
+#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" group-title="Info",Epic HD
+https://epiconvh.s.llnwi.net/epic/master.m3u8
+
+#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" group-title="Info",Epic 1080
+https://epiconvh.s.llnwi.net/epic/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A8Lgry+BWfnwzptdvIZfEA","k":"zYTtE2sMxx+KuM1NT2ouTA"}]}
@@ -36,17 +46,7 @@ EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcrea
 https://1.yurend.xyz/dash-wv/linear/2506/default_primary.mpd
 https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/NnztQ83/Picsart-23-07-06-13-45-43-488.png",NAZARA TV
-https://epiconvh.s.llnwi.net/live/nazara/master.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/NnztQ83/Picsart-23-07-06-13-45-43-488.png",NAZARA TV 480p
-https://epiconvh.s.llnwi.net/live/nazara/master_480.m3u8
-
-#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" group-title="Info",Epic HD
-https://epiconvh.s.llnwi.net/epic/master.m3u8
-
-#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" group-title="Info",Epic 1080
-https://epiconvh.s.llnwi.net/epic/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jVgMJj/95pG0JJ38rEP9EA","k":"8xSNHnN97ONVS4iYaIMWWQ"}]}
