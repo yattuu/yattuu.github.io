@@ -12,8 +12,14 @@ https://epiconvh.s.llnwi.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-d="ts1184"  tvg-logo="https://i.ibb.co/NnztQ83/Picsart-23-07-06-13-45-43-488.png",NAZARA TV 480p
 https://epiconvh.s.llnwi.net/live/nazara/master_480.m3u8
 
+#EXTINF:-1 tvg-d="ts1184"  tvg-logo="https://i.ibb.co/NnztQ83/Picsart-23-07-06-13-45-43-488.png",NAZARA TV 480p mx
+https://dkshlpp7ugzua.cloudfront.net/nazaradigital/master_480.m3u8
+
 #EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" ,Epic HD
 https://epiconvh.s.llnwi.net/epic/master.m3u8
+
+#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" ,Epic HD mx
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/master.m3u8
 
 #EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://play-lh.googleusercontent.com/8ROgcz0tBg9WRA4hPVIQHDnYLU8DEaKyrrs2ps5hDPG3AQ6_DKrt5YhWrDLqpMKf5ic" ,Epic 1080
 https://epiconvh.s.llnwi.net/epic/master_720.m3u8
