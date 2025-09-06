@@ -84,10 +84,6 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png"  group-title="ONLINE--HINDI TV",AAJ TAK (IN)
 https://feeds.intoday.in/aajtak/api/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/NDTV_hindi_750x500_screnngrab.jpg"  group-title="ONLINE--HINDI TV",NDTV INDIA (IN)
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/109657-abplogo.jpg"  group-title="ONLINE--HINDI TV",ABP NEWS (IN)
-https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"   group-title="ONLINE--HINDI TV",9XM (IN)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
