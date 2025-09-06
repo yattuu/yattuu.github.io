@@ -74,3 +74,18 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajyasabha.png"  group-title="ONLINE--HINDI TV",SANSAD TV HD (IN)
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+
+#EXTINF:-1  tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png"  group-title="ONLINE--HINDI TV",AAJ TAK HD (IN)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png"  group-title="ONLINE--HINDI TV",AAJ TAK (IN)
+https://feeds.intoday.in/aajtak/api/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/NDTV_hindi_750x500_screnngrab.jpg"  group-title="ONLINE--HINDI TV",NDTV INDIA (IN)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/109657-abplogo.jpg"  group-title="ONLINE--HINDI TV",ABP NEWS (IN)
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+
