@@ -153,3 +153,5 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="TNT Sports 3" tvg-logo="https://iili.io/1Nz0AP.png" group-title="Sports",TNT SPORTS 3
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
+#EXTINF:-1 tvg-id="136731" tvg-name="Asia cup fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136731_5665_AFG_HK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Afghanistan Vs Hong Kong, China
+https://decllygx6lcl0.cloudfront.net/out/v1/bf402af6567749cf858514ecd136f0f2/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
