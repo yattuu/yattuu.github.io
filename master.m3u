@@ -155,3 +155,44 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 
 #EXTINF:-1 tvg-id="136731" tvg-name="Asia cup fancode" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136731_5665_AFG_HK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Afghanistan Vs Hong Kong, China
 https://decllygx6lcl0.cloudfront.net/out/v1/bf402af6567749cf858514ecd136f0f2/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TNT_Sports_4" tvg-name="TNT Sports 4" tvg-logo="" group-title="Cricket",TNT Sports 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4xpagcr7XwfiJBF1c8LlWQ","k":"lsXvaUeXMq5zT5YnSOGXKQ"}]}
+https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="CricLife2" tvg-name="Cricbuzz" tvg-logo="" group-title="Cricket",Cricbuzz
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SL74O0xqPFGJsBsBJiENpA","k":"vQhSMLewnlCVT+CvERqKnw"}]}
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
+
+#EXTINF:-1 tvg-id="Sony_Sports" tvg-name="Sony Sports" tvg-logo="" group-title="Cricket",Sony Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XoM/QBlVSoOU/23i6xm/eA","k":"9g4IoUWASJBJL/FbYXiaxa"}]}
+https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd
+
+#EXTINF:-1 tvg-id="Willow" tvg-name="Willow" tvg-logo="" group-title="Cricket",Willow
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"F3nCe50HejugyYwbualLnw","k":"zFzzt5KPueCh7mqLVm8KjQ"}]}
+https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:-1 tvg-id="Fox_Sports_501" tvg-name="Fox Sports 501" tvg-logo="" group-title="Cricket",Fox Sports 501
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kOiZRhud9ND3w3iKZzJx1g","k":"QWtW9n8chlY5hME6X4c/fA"}]}
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/ugyqib0s4d/out/v1/f59bf28709ae4a9f81cc9862c65d81a3/cenc.mpd
+
+#EXTINF:-1 tvg-id="Rumble_Stream" tvg-name="Rumble Stream" tvg-logo="" group-title="Cricket",Rumble Stream
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-75/xjcd-q2jh/chunklist_DVR.m3u8
