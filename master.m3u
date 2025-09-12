@@ -196,3 +196,6 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/ugy
 
 #EXTINF:-1 tvg-id="Rumble_Stream" tvg-name="Rumble Stream" tvg-logo="" group-title="Cricket",Rumble Stream
 https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-75/xjcd-q2jh/chunklist_DVR.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony asia cup" tvg-logo="" group-title="Cricket",Asia cup sony
+https://dai.google.com/ssai/event/PUs1MMddTWyneCBN32ShKA/master.m3u8
