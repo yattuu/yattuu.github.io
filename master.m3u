@@ -201,5 +201,7 @@ https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-75/xjcd-q2jh/chunklist_DVR.m3u8
 https://dai.google.com/ssai/event/PUs1MMddTWyneCBN32ShKA/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony asia cup2" tvg-logo="" group-title="Cricket",Asia cup sony2
-
 https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="fc asia cup2" tvg-logo="" group-title="Cricket",Asia cup fc
+https://dai.google.com/ssai/event/EyvyxFwPQuG0ck2W0iqR7g/master.m3u8
