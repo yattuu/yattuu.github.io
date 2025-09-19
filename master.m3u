@@ -208,3 +208,9 @@ https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="fc asia cup3" tvg-logo="" group-title="Cricket",Asia cup fc
 https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8757809801~acl=/*~id=90297509224730153852421298736214~hmac=5cccbf0357f59dedd89f130f31f1ccde60e71e98244c7350d08f7bc0aa223de1
+
+#EXTINF:-1 tvg-id="" tvg-name="fc asia cup19sep" tvg-logo="" group-title="Cricket",Asia cup 19sep
+https://in-mc-fdlive.fancode.com/mumbai/136742_english_hls_cd7ccd163687982adfreeta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="fc asia cup19sep" tvg-logo="" group-title="Cricket",Asia cup 19sep
+https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8
