@@ -214,3 +214,13 @@ https://in-mc-fdlive.fancode.com/mumbai/136742_english_hls_cd7ccd163687982adfree
 
 #EXTINF:-1 tvg-id="" tvg-name="fc asia cup19sep" tvg-logo="" group-title="Cricket",Asia cup 19sep
 https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="willow" group-title="Sports" tvg-logo="https://iili.io/1Nz0AP.png", willow 
+https://abfdm2saaaaaaaamljqrv7ybrrx7h.47348d5020154bfaac6dd4418cd23c5d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd
+
